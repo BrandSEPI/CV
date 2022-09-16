@@ -151,6 +151,7 @@ header {
 }
 
 .arrow_box {
+    z-index: 2;
     position: fixed;
     background: #88b7d5;
     border: 4px solid #80cbc4;
